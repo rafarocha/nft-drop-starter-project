@@ -1,0 +1,19 @@
+{
+	"name": "The Dark Side of the Moon",
+	"symbol": "NB",
+	"description": "Pink Floyd The Dark Side of the Moon Album",
+	"image": "0.png",
+	"attributes": [{
+		"trait_type": "Number",
+		"value": "0",
+        "released" : 1973,
+        "duration" : "42:30",
+        "band" : "Pink Floyd" 
+	}],
+	"properties": {
+		"files": [{
+			"uri": "2.png",
+			"type": "image/png"
+		}]
+	}
+}

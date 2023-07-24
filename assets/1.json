@@ -1,0 +1,19 @@
+{
+	"name": "BBC Sessions",
+	"symbol": "NB",
+	"description": "Led Zeppelin BBC Sessions Album",
+	"image": "0.png",
+	"attributes": [{
+		"trait_type": "Number",
+		"value": "0",
+        "released" : 1998,
+        "duration" : "149:23",
+        "band" : "Led Zeppelin" 
+	}],
+	"properties": {
+		"files": [{
+			"uri": "1.png",
+			"type": "image/png"
+		}]
+	}
+}
