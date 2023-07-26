@@ -1,0 +1,41 @@
+{
+  "program": {
+    "candyMachine": "GZcS625LbsaJ5peDCnRn8ZjycmRnaTk8aQFkdEvVqTJf",
+    "candyMachineCreator": "9BYpmGxGUR6qS1bWGE5fBJPjFs6BGphvL925WrePDspF",
+    "collectionMint": "AQ2vPeCnNnQRfuUeyQ3tdHEsyN9Li5dbpy6R4EdLweHV"
+  },
+  "items": {
+    "-1": {
+      "name": "Numbers Collection",
+      "image_hash": "fcbaec707dc51fca062cca2153afb142aea944368b87272472899e584455e01b",
+      "image_link": "https://nftstorage.link/ipfs/bafybeigpduifwqmwdtwdwychjdf5ih54hvwza4io2gtjge4qgxkotfjkx4/collection.png",
+      "metadata_hash": "1865bd8a1c6396aaac5267e0bfffcc269a5e6d5ef086b31d0b360fda2fa44de7",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeidzqo774uxbspve7v2xai73i2ktcjvvfeymwggp3wzq6y6b7k3tnu/collection.json",
+      "onChain": true
+    },
+    "0": {
+      "name": "Fireworks",
+      "image_hash": "a249d68159ea5e71cc57f4aba3b19888b280b6c0f5d473b0ca9ccbcdec082af3",
+      "image_link": "https://nftstorage.link/ipfs/bafybeiap7dg46zspclgz2dw3hlkrei7xvmchpg7cyjum3rwpgopydhjloe/0.png",
+      "metadata_hash": "44b3f376fe53f9d984499376cd44c276587c8a711b254e6c0ca10c7645540bc7",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeiaqjhye2k3cyjtu6sya6jk2idh4f6m4orftgy73kejqolqxts6p54/0.json",
+      "onChain": true
+    },
+    "1": {
+      "name": "BBC Sessions",
+      "image_hash": "2a9576a78c0e85c06ab7646b8d434bde900641274d9f2ced7df19cba478af613",
+      "image_link": "https://nftstorage.link/ipfs/bafybeiap7dg46zspclgz2dw3hlkrei7xvmchpg7cyjum3rwpgopydhjloe/1.png",
+      "metadata_hash": "4e68d879d3484db80a534804c5095e5c623326625574d7c304a8167b3025c57f",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeiaqjhye2k3cyjtu6sya6jk2idh4f6m4orftgy73kejqolqxts6p54/1.json",
+      "onChain": true
+    },
+    "2": {
+      "name": "The Dark Side of the Moon",
+      "image_hash": "a3f49f7914e7a758d1f20590dc6a36d82970a87db0e03b43fbbef885dfdeac43",
+      "image_link": "https://nftstorage.link/ipfs/bafybeiap7dg46zspclgz2dw3hlkrei7xvmchpg7cyjum3rwpgopydhjloe/2.png",
+      "metadata_hash": "29a9c8440671cd71d71d63660cadda88261c9b918aa4188aebfb33d404d6f707",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeiaqjhye2k3cyjtu6sya6jk2idh4f6m4orftgy73kejqolqxts6p54/2.json",
+      "onChain": true
+    }
+  }
+}
